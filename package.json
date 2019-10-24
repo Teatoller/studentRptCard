@@ -1,0 +1,22 @@
+{
+  "name": "studentrptcard",
+  "version": "1.0.0",
+  "description": "Moringa school student assessment report",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teatoller/studentRptCard.git"
+  },
+  "author": "Steven Ennis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teatoller/studentRptCard/issues"
+  },
+  "homepage": "https://github.com/Teatoller/studentRptCard#readme",
+  "dependencies": {
+    "xlsx": "^0.15.1"
+  }
+}
